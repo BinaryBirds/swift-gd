@@ -1,0 +1,4 @@
+module CLibGD {
+    umbrella header "clibgd.h"
+    link "gd"
+}
